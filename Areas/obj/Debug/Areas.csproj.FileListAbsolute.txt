@@ -1,0 +1,5 @@
+D:\С\Платон\Колледж\Второй курс\Второй семестр\ОАП\Areas\Areas\bin\Debug\Areas.dll
+D:\С\Платон\Колледж\Второй курс\Второй семестр\ОАП\Areas\Areas\bin\Debug\Areas.pdb
+D:\С\Платон\Колледж\Второй курс\Второй семестр\ОАП\Areas\Areas\obj\Debug\Areas.csproj.CoreCompileInputs.cache
+D:\С\Платон\Колледж\Второй курс\Второй семестр\ОАП\Areas\Areas\obj\Debug\Areas.dll
+D:\С\Платон\Колледж\Второй курс\Второй семестр\ОАП\Areas\Areas\obj\Debug\Areas.pdb
